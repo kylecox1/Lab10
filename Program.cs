@@ -82,7 +82,6 @@ namespace Lab10
                     Console.WriteLine(movie.Title);
                 }
 
-
                 Console.WriteLine("");
                 Console.Write("Continue? (y/n): ");
                 playAgain = PlayAgain();
