@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.Linq;
 
-
 namespace Lab10
 {
     class Program
@@ -92,7 +91,6 @@ namespace Lab10
             Console.WriteLine("Thanks for playing. Press any key to exit.");
             Console.ReadKey();
         }
-
 
 
         public static bool PlayAgain()
